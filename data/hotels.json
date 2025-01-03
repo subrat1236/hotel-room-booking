@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "The Chancery",
+      "location": "Bangalore",
+      "rating": 4.0
+    },
+    {
+      "id": 2,
+      "name": "ITC Grand Chola",
+      "location": "Chennai",
+      "rating": 4.3
+    },
+    {
+      "id": 3,
+      "name": "The Taj Mahal Palace",
+      "location": "Mumbai",
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Swosti Grand",
+      "location": "Bhubaneswar",
+      "rating": 4.2
+    },
+    {
+      "id": 5,
+      "name": "The Leela Palace",
+      "location": "Delhi",
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "name": "MAYFAIR Lagoon",
+      "location": "Bhubaneswar",
+      "rating": 4.6
+    },{
+      "id": 7,
+      "name": "The Oberoi",
+      "location": "Bangalore",
+      "rating": 4.7
+    },{
+      "id": 1,
+      "name": "The Leela Palace",
+      "location": "Bangalore",
+      "rating": 4.6
+    },{
+      "id": 1,
+      "name": "JW Marriott",
+      "location": "Bangalore",
+      "rating": 4.5
+    },{
+      "id": 1,
+      "name": "The Oterra Hotel",
+      "location": "Bangalore",
+      "rating": 4.4
+    }
+]
